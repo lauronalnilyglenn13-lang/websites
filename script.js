@@ -39,7 +39,7 @@ const CONFIG = {
   // (Song files are copyrighted, so none is included — use a copy
   //  you legally own.) Leave as "" to turn music off.
   musicFile: "https://videotourl.com/audio/1793551484935-28de5eff-d89c-49f5-83e8-5a81d2038851.mp3",
-  musicVolume: 0.6,                // 0 = silent, 1 = loudest
+  musicVolume: 0.1,                // 0 = silent, 1 = loudest
 
   // ---- BACKGROUND IMAGE (optional) ----
   // Put a picture in the same folder and type its name, e.g. "us.jpg".
