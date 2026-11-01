@@ -27,7 +27,8 @@ const CONFIG = {
 ​May God bless you and your family always! Continue being the kind, soft hearted Martha that everyone knows bisag geng-geng Taylor Swift ka usahay. Good luck with your Nursing career, Twin!
 
 
-Happy birthday. Here's to another year of you.`,
+​      "Whatever." 
+​Happy Birthday again!.`,
   signature: "Yours always ♥",
   wishMessage: "Wish made. I hope it comes true 💖",
   wishPrompt: "tap the flame & make a wish ✨",
