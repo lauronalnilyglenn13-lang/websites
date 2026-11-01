@@ -33,7 +33,7 @@ Happy birthday. Here's to another year of you.`,
   // then write its file name here. Example: "ruin-the-friendship.mp3"
   // (Song files are copyrighted, so none is included — use a copy
   //  you legally own.) Leave as "" to turn music off.
-  musicFile: "ruin-the-friendship.mp3",
+  musicFile: "https://videotourl.com/audio/1793551484935-28de5eff-d89c-49f5-83e8-5a81d2038851.mp3",
   musicVolume: 0.6,                // 0 = silent, 1 = loudest
 
   // ---- BACKGROUND IMAGE (optional) ----
