@@ -20,6 +20,11 @@ const CONFIG = {
 `Today is all about you.
 
 ​First of all, I’m sorry this simple message is all I can give you right now while I’m away training for my upcoming game on Nov 21. Even from afar, I want you to feel special always and in all ways even if you are the total nonchalant human being that you are!
+​I'm so grateful to have met someone as wonderfully unique, fragile, and humorous as you. I still can't believe that even though CODM has such a big server, Tito CODM somehow managed to match us on that random day! I nearly couldn't find you after that game because I forgot to add you, but a good thing you replied and the rest is history, hehe. That's also where Taylor Swift comes into our story! From the very beginning, there was something about you that I couldn't quite put into words, and to be honest, I still can't. You have this invisible string that makes it impossible to ignore you whenever you cross my mind.
+​Life's endeavors may have been harsh on you, but seeing how you stay calm and let things fall into place one step at a time really inspired me. Because of you, a spark in me that was gone for years came back, and I’ve learned to take things neutrally just as you prefer between us.
+​I specifically chose "Ruin the Friendship" by Taylor Swift for this message because it reminds me of the bond we've created and everything that's happened along the way. It's the theme song for our connection a reminder of the subtle, complicated feelings between us that need time and understanding before taking any step forward. I know you don't want to rush things, and I completely respect that. I'll just look forward to that moment when I might get the chance to know you even deeper, without putting any pressure on you at all.
+​I might not be a perfect friend, but I will always put in the effort so you can see through my eyes just how much you truly mean to me. No matter what, FRHANNZ will always be right here whenever you need someone to call. I won't go anywhere, and I'll always be the loudest person cheering for all the small wins in your life.
+​May God bless you and your family always! Continue being the kind, soft hearted Martha that everyone knows bisag geng-geng Taylor Swift ka usahay. Good luck with your Nursing career, Twin!
 
 
 Happy birthday. Here's to another year of you.`,
@@ -171,4 +176,3 @@ function confettiBurst() {
     setTimeout(() => piece.remove(), 6000);
   }
 }
-
