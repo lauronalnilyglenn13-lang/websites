@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <!-- viewport-fit=cover lets the page fill iPhone/iPad screens edge to edge -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#ff8fb1">
+  <title>A Birthday Letter For You 💌🎂</title>
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Quicksand:wght@500;600&display=swap" rel="stylesheet">
+
+  <!-- 1) STYLE FILE: colors, layout, phone & iPad design -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <!-- Birthday flags across the top (filled by script.js) -->
+  <div class="bunting" id="bunting"></div>
+
+  <!-- Music button (shown only if a music file is set in script.js) -->
+  <button class="music-btn" id="musicBtn" aria-label="Play or pause music">♪</button>
+
+  <!-- THE ENVELOPE -->
+  <main class="scene" id="scene">
+    <p class="hint" id="hint"></p>
+
+    <div class="envelope" id="envelope" role="button" tabindex="0" aria-label="Open your letter">
+      <div class="back"></div>
+      <div class="letter" id="envelopeLabel"></div>
+      <div class="pocket"><div class="bottom-fold"></div></div>
+      <div class="flap"></div>
+      <div class="seal">♥</div>
+    </div>
+  </main>
+
+  <!-- THE FULL LETTER (pops up after tapping) -->
+  <section class="reader" id="reader">
+    <div class="paper">
+      <div class="occasion" id="occasion"></div>
+      <h1 id="letterTitle"></h1>
+      <p id="letterBody"></p>
+      <p class="signature" id="letterSignature"></p>
+
+      <div class="cake-area">
+        <div class="cake" id="cake" title="Tap to blow out the candle">
+          <span class="flame" id="flame">🔥</span>
+          <div class="candle"></div>
+          <div class="layer-top"></div>
+          <div class="layer-bottom"></div>
+        </div>
+        <div class="wish" id="wish"></div>
+      </div>
+
+      <button class="close-btn" id="closeBtn">Close letter</button>
+    </div>
+  </section>
+
+  <!-- 2) SCRIPT FILE: your letter text, music, background & animations -->
+  <script src="script.js"></script>
+</body>
+</html>
