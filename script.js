@@ -29,7 +29,7 @@ const CONFIG = {
 
 ​      "Whatever." 
 ​Happy Birthday again!.`,
-  signature: "-​TWIN / Frhannz ♥",
+  signature: "-​TWIN / Frhannz♥",
   wishMessage: "Wish made. I hope it comes true 💖",
   wishPrompt: "tap the flame & make a wish ✨",
 
